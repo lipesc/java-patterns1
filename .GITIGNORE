@@ -1,4 +1,4 @@
-.class
+*.class
 .vscode
 /bin
 /lib
